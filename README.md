@@ -1,6 +1,6 @@
-# Hi, I'm cxyfreedom
+# Hi, I'm Nicodemus Alfriyanto
 
-A senior backend developer from China, based in Shanghai. I regulary write articles on Obsidian.
+Passionate IT student | Future Android developer | Creative explorer | Turning code into innovation. 🚀📱
 
 ## About Me
 
