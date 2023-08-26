@@ -1,7 +1,5 @@
 # Hi, I'm Nicodemus Alfriyanto
 
-Passionate IT student | Future Android developer | Creative explorer | Turning code into innovation. 🚀📱
-
 ## About Me
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=ncccdms.ncccdms)](https://visitor-badge.laobi.icu/badge?page_id=ncccdms.ncccdms)
