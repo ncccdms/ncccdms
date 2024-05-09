@@ -1,6 +1,6 @@
 ![Header](https://via.placeholder.com/800x200/000000/FFFFFF?text=Hi,+I'm+Nicodemus+Alfriyanto)
 
-### Tentang Saya
+### About Me
 I am an enthusiastic software developer who focuses on the front-end and tries to manage data for the benefit of data analysis. I am currently studying information systems at Telkom Institute of Technology Purwokerto. 
 
 ### Tools
@@ -12,13 +12,13 @@ I am an enthusiastic software developer who focuses on the front-end and tries t
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### Teknologi
+### Tech
 ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-00C7B7?style=flat-square)
 ![Progressive Web Apps](https://img.shields.io/badge/-Progressive%20Web%20Apps-7952B3?style=flat-square)
 ![Single Page Applications](https://img.shields.io/badge/-Single%20Page%20Applications-34495E?style=flat-square)
 
-### Statistik
+### Stat
 ![Github Statistik](https://github-readme-stats.vercel.app/api?username=ncccdms&show_icons=true)
 
-### Bahasa yang Sering Digunakan
+### Most Used Language
 ![Top Bahasa](https://github-readme-stats.vercel.app/api/top-langs/?username=ncccdms)
