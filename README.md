@@ -15,7 +15,7 @@ I am an enthusiastic software developer who focuses on the front-end and tries t
 ### Tech
 ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-00C7B7?style=flat-square)
 ![Progressive Web Apps](https://img.shields.io/badge/-Progressive%20Web%20Apps-7952B3?style=flat-square)
-![Single Page Applications](https://img.shields.io/badge/-Single%20Page%20Applications-34495E?style=flat-square)
+![Single Page Applications](https://img.shields.io/badge/-Multi%20Page%20Applications-34495E?style=flat-square)
 
 ### Stat
 ![Github Statistik](https://github-readme-stats.vercel.app/api?username=ncccdms&show_icons=true)
