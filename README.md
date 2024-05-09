@@ -1,4 +1,4 @@
-![Header](https://img.freepik.com/premium-photo/beautiful-abstact-desktop-wallpaper-sharp-focuscolorful-background_743758-771.jpg/800x200/000000/FFFFFF?text=Hello,+Im+Nicodemus+Alfriyanto)
+![Header](https://via.placeholder.com/800x200/000000/FFFFFF?text=Hi,+I'm+Nicodemus+Alfriyanto)
 
 ### Tentang Saya
 I am an enthusiastic software developer who focuses on the front-end and tries to manage data for the benefit of data analysis. I am currently studying information systems at Telkom Institute of Technology Purwokerto. 
