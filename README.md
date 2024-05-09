@@ -1,25 +1,24 @@
-# Hi, I'm Nicodemus Alfriyanto
+![Header](https://via.placeholder.com/800x200/000000/FFFFFF?text=Hello,+Im+Nicodemus+Alfriyanto)
 
-## About Me
+### Tentang Saya
+I am an enthusiastic software developer who focuses on the front-end and tries to manage data for the benefit of data analysis. I am currently studying information systems at Telkom Institute of Technology Purwokerto. 
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=ncccdms.ncccdms)](https://visitor-badge.laobi.icu/badge?page_id=ncccdms.ncccdms)
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:nicodemusalfriyanto@gmail.com)
-[![](https://img.shields.io/github/stars/ncccdms?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=ncccdms&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![](https://img.shields.io/github/followers/ncccdms?color=27da6b&logo=Handshake)](https://github.com/ncccdms?tab=followers)
+### Tools
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## Tools
+### Teknologi
+![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-00C7B7?style=flat-square)
+![Progressive Web Apps](https://img.shields.io/badge/-Progressive%20Web%20Apps-7952B3?style=flat-square)
+![Single Page Applications](https://img.shields.io/badge/-Single%20Page%20Applications-34495E?style=flat-square)
 
-<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="netbeans" width="40" height="40"/> </a> <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/x/32/xampp.svg" alt="xampp" width="40" height="40"/> </a> <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40"/> <img src="https://assets.clarisco.com/images/banner/hire/mobile/androidstudio.webp" alt="netbeans" width="40" height="40"/></a> 
+### Statistik
+![Github Statistik](https://github-readme-stats.vercel.app/api?username=ncccdms&show_icons=true)
 
-## Technology Stack
-
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://dev.java/learn/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://en.cppreference.com/w/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="java" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
-
-
-## Stats
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=ncccdms&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="ncccdms" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ncccdms&theme=material-palenight&hide_border=false" alt="ncccdms" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncccdms&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ncccdms" /></p>
-
-![](https://github-profile-trophy.vercel.app/?username=ncccdms&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+### Bahasa yang Sering Digunakan
+![Top Bahasa](https://github-readme-stats.vercel.app/api/top-langs/?username=ncccdms)
