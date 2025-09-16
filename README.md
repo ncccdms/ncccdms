@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://via.placeholder.com/800x200/1a1a1a/FFFFFF?text=Nicodemus+Alfriyanto+-+Mobile+%26+Backend+Developer" alt="Header">
-</p>
-
-<h3 align="center">Mobile & Backend Developer | Kotlin & Go Enthusiast</h3>
+<h3 align="center">Mobile & Backend Developer</h3>
 
 ### 👨‍💻 About Me
 
@@ -16,12 +12,9 @@ I'm a software developer with a passion for building efficient mobile applicatio
 
 **Mobile Development**
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![MVVM](https://img.shields.io/badge/Architecture-MVVM-FF6F00?style=for-the-badge)
 
 **Backend Development**
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Concurrency](https://img.shields.io/badge/Concurrency-Multi--Core-009688?style=for-the-badge)
 
 **Web Technologies**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
